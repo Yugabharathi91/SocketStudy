@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## NAME: YUGABHARATHI M
+## REGISTER NO:212224230314
+## DATE:
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
